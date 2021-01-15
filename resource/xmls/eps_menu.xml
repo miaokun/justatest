@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu_library><!-- category:room房间,facilities设施,desk桌子,ornamental装饰 -->
+	<menu type="room" name="房间" >
+		<item id="1000" type="" name="办公室" src="assets/images/pic_meeting_large.png"></item><!-- type物品类型:0装饰,1桌子,2其他 -->
+		<item id="1001" type="" name="大会议室" src="assets/images/pic_meeting_large.png"></item>
+		<item id="1002" type="" name="小会议室" src="assets/images/pic_meeting_small.png"></item>
+		<item id="1003" type="" name="办公室" src="assets/images/pic_meeting_large.png"></item>
+		<item id="1004" type="" name="办公室" src="assets/images/pic_meeting_large.png"></item>
+		<item id="1005" type="" name="办公室" src="assets/images/pic_meeting_large.png"></item>
+		<item id="1006" type="" name="办公室" src="assets/images/pic_meeting_large.png"></item>
+		<item id="1007" type="" name="办公室" src="assets/images/pic_meeting_large.png"></item>
+	</menu>
+	
+	<menu type="facilities" name="空间设施" >
+		<item id="2000" type="2" name="pic_wall_1" src="assets/images/pic_wall_1.png"></item>
+		<item id="2001" type="2" name="pic_wall_2" src="assets/images/pic_wall_2.png"></item>
+		<item id="2002" type="2" name="pic_window" src="assets/images/pic_window.png"></item>
+	</menu>
+	
+	<menu type="desk" name="办公桌" >
+		<item id="3000" type="1" name="方桌" src="assets/images/pic_desk.png"></item>
+		<item id="3001" type="1" name="pic_desk_2" src="assets/images/pic_desk_2.png"></item>
+		<item id="3002" type="1" name="pic_desk_boss_1" src="assets/images/pic_desk_boss_1.png"></item>
+		<item id="3003" type="1" name="pic_desk_boss_2" src="assets/images/pic_desk_boss_2.png"></item>
+		<item id="3004" type="1" name="pic_desk_cross" src="assets/images/pic_desk_cross.png"></item>
+		<item id="3005" type="1" name="pic_desk_trangle" src="assets/images/pic_desk_trangle.png"></item>
+		<item id="3006" type="1" name="pic_desk_up" src="assets/images/pic_desk_up.png"></item>
+	</menu>
+	
+	<menu type="decoration" name="装饰" >
+		<item id="4000" type="0" name="pic_flower" src="assets/images/pic_flower.png"></item>
+	</menu>
+	
+	
+	
+	
+</menu_library>

@@ -1,0 +1,13 @@
+{
+    "name": "bae-nodejs",
+    "version": "1.0.1",
+    "author": "tommiao",
+    "description": "The first bae nodejs app!",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "redis": "0.9.1"
+    }
+}
+

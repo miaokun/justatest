@@ -1,0 +1,20 @@
+{
+"resources":
+	[
+		{ "name": "load", "type": "sheet", "url": "assets/load.json" },
+		{"name":"logo2","type":"image","url":"assets/logo2.png"},
+		{ "name":"train", "type": "sheet", "url": "assets/train.json" },
+		{"name":"mo", "type": "sheet", "url": "assets/mo.json" },
+        { "name": "back1", "type": "image", "url": "assets/back1.jpg" },
+        { "name": "hit", "type": "image", "url": "assets/hit.png" },
+        { "name": "a", "type": "image", "url": "assets/a.png" },
+        { "name": "zhongxin", "type": "image", "url": "assets/zhongxin.png" },
+        {"name":"rule","type":"image","url":"assets/rule.png"}
+	],
+
+"groups":
+	[
+		{"name":"loading","keys":"load,logo2"},
+		{"name":"preload","keys":"train,mo,back1,a,zhongxin,rule,hit"}
+	]
+}
